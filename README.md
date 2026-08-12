@@ -113,6 +113,26 @@ Santiago appears as a potential **outlier**, combining relatively high congestio
 
 Before drawing conclusions from this result, the economic indicator should be validated to confirm that currency, units, and calculation methodology are consistent with the rest of the dataset.
 
+## Key Visualizations
+
+### Traffic Congestion vs GDP per Capita
+
+![Traffic Congestion vs GDP per Capita](congestion_vs_gdp.png)
+
+The visualization shows a **positive but weak relationship** between traffic congestion and GDP per capita. Higher economic productivity does not necessarily translate into higher or lower congestion levels.
+
+Mexico City stands out for combining high traffic delays with relatively high GDP per capita, while Montevideo shows high economic productivity with comparatively low congestion.
+
+---
+
+### Traffic Congestion Distribution
+
+![Traffic Congestion Distribution](traffic_congestion_distribution.png)
+
+The distribution of traffic delays helps identify differences between cities and potential atypical cases.
+
+Santiago appears as a city that requires further validation due to its combination of relatively high congestion and comparatively low GDP per capita.
+
 ---
 
 ## Investment Prioritization Insight
